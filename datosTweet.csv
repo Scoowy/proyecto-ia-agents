@@ -1,0 +1,101 @@
+id,user,content,num_likes,num_comments,num_good_comments,num_bad_comments,num_neutral_comments,num_retwetts,num_followers
+AAA01,usuario1,Este es un tweet,23,5,3,2,0,2,3870
+AAA02,usuario51,Estoy triste,317,196,9,90,97,14,408
+AAA03,usuario66,Me siento feliz,891,144,70,21,53,41,378
+AAA04,usuario99,No estoy de acuerdo con el gobierno,986,57,30,4,23,38,556
+AAA05,usuario31,Estoy feliz por que tengo trabajo,367,120,40,32,48,12,905
+AAA06,usuario38,Preocupado por la violencia en el país,189,100,15,4,81,55,797
+AAA07,usuario27,Tengo hambre,428,79,30,33,16,48,978
+AAA08,usuario56,Feliz haciendo ejercicio,43,77,40,4,33,33,588
+AAA09,usuario48,Triste por la lluvia de hoy,59,124,20,29,75,62,645
+AAA10,usuario99,Con incertidumbre por la violencia del país,580,127,7,20,100,72,361
+AAA11,usuario14,El gobierno no ayuda al pueblo,346,42,12,5,25,43,823
+AAA12,usuario85,No hay paz en este país,460,171,42,40,89,90,766
+AAA13,usuario31,No encuentro trabajo,451,140,70,5,65,66,910
+AAA14,usuario76,Estoy buscando trabajo,923,94,14,3,77,73,539
+AAA15,usuario83,Vendo ropa de buena marca,179,98,60,23,15,6,316
+AAA16,usuario57,Mi mamá no entiende,27,144,3,80,61,63,65
+AAA17,usuario93,Estoy feliz por mi bebé,211,161,9,90,62,78,755
+AAA18,usuario75,Estoy esperando un hijo,472,107,20,5,82,72,528
+AAA19,usuario7,Cuidando el medio ambiente,715,88,25,4,59,43,77
+AAA20,usuario98,Sembrando nuevos árboles,246,111,15,0,96,42,321
+AAA21,usuario30,Respirando aire puro,535,87,1,80,6,18,407
+AAA22,usuario12,No existe paz en este país,323,94,40,39,15,96,613
+AAA23,usuario46,Viajando a México,979,125,20,9,96,91,730
+AAA24,usuario59,Viajando por el mundo,900,110,10,4,96,14,822
+AAA25,usuario9,No hay trabajo en este país,753,193,90,5,98,50,315
+AAA26,usuario29,Tengo muchas deudas,582,143,9,70,64,61,563
+AAA27,usuario42,Debemos cuidarnos de virus,551,73,2,30,41,51,361
+AAA28,usuario80,Tengo COVID-19,342,100,35,1,64,40,608
+AAA29,usuario10,Estoy en casa,276,96,10,4,82,36,767
+AAA30,usuario85,Soñando con este viaje,498,66,5,5,56,41,961
+AAA31,usuario55,Tengo la mejor familia del mundo,57,102,8,50,44,55,941
+AAA32,usuario46,Compartiendo en familia,32,68,45,2,21,78,783
+AAA33,usuario17,Mi novio hizo esta sorpresa,336,179,90,4,85,98,569
+AAA34,usuario2,Tengo el mejor novio,874,109,11,1,97,61,500
+AAA35,usuario32,Mi mamá no entiende,184,102,72,3,27,92,831
+AAA36,usuario45,De viaje en familia,805,170,7,80,83,28,872
+AAA37,usuario3,Disfrutando esta comida,224,159,75,1,83,53,60
+AAA38,usuario86,Me encantan los patacones,821,103,94,1,8,62,787
+AAA39,usuario75,Disfrutando del mar en Salinas,764,69,1,35,33,92,329
+AAA40,usuario33,En familia disfrutando de esta cena,484,62,14,0,48,94,667
+AAA41,usuario36,Nuevamente hay nuevas restricciones,684,170,84,1,85,48,296
+AAA42,usuario87,No hay cura para este virus,346,139,7,70,62,14,206
+AAA43,usuario44,No hay vacunas,868,116,60,8,48,28,208
+AAA44,usuario56,No a la vacunación,332,156,98,1,57,18,845
+AAA45,usuario94,Debemos vacunarnos,591,27,1,14,12,5,383
+AAA46,usuario84,Si a la vacunación,253,55,17,1,37,4,725
+AAA47,usuario84,Disfrutando de la vida,801,111,30,31,50,13,774
+AAA48,usuario69,Disfrutando de estas vacaciones,943,118,20,5,93,75,745
+AAA49,usuario95,Juntos en familia,474,70,25,27,18,87,75
+AAA50,usuario31,Dile no al aborto,833,126,20,27,79,45,698
+AAA51,usuario38,El aborto en un asesinato,120,83,15,4,64,5,548
+AAA52,usuario79,PROVIDA,760,105,20,23,62,93,206
+AAA53,usuario69,En este país no hay derechos,614,133,25,25,83,99,749
+AAA54,usuario78,NO a la violencia de la mujer,692,84,24,4,56,69,493
+AAA55,usuario7,No más muertes en el país,758,101,20,25,56,71,828
+AAA56,usuario46,No se puede vivir en este país,80,124,47,45,32,42,436
+AAA57,usuario46,Feliz por mi nueva sobrina,394,117,38,30,49,4,682
+AAA58,usuario91,Me siento feliz por un nuevo día,658,51,15,20,16,49,817
+AAA59,usuario8,El gobierno no ayuda al pueblo,318,77,30,25,22,40,291
+AAA60,usuario39,Mi mamá no entiende,839,93,4,5,84,52,769
+AAA61,usuario16,Mi familia mi mejor tesoro,573,99,10,10,79,36,331
+AAA62,usuario22,Tengo ganas de lasaña,251,83,6,6,71,77,843
+AAA63,usuario28,Juntos en familia,359,62,15,18,29,74,906
+AAA64,usuario75,Ya no hay vida en este país lleno de violencia,48,81,50,5,26,70,97
+AAA65,usuario94,No hay paz en este país,662,18,4,4,10,34,580
+AAA66,usuario19,Me siento triste,808,37,20,1,16,84,50
+AAA67,usuario50,Existen nuevos casos del virus que esta mandando al mundo,746,153,74,5,74,28,170
+AAA68,usuario34,Feliz por este nuevo logro,499,99,90,2,7,5,392
+AAA69,usuario62,Feliz por la nueva graduada,401,149,50,2,97,68,52
+AAA70,usuario21,Contento por mi nueva meta,589,104,30,36,38,75,768
+AAA71,usuario99,Juntos en familia,329,42,20,2,20,23,405
+AAA72,usuario85,Mi familia mi mejor tesoro,564,85,5,4,76,90,776
+AAA73,usuario66,Los mejores papas del mundo,604,86,10,4,72,87,560
+AAA74,usuario28,Deseo viajar por todo el mundo,221,72,5,4,63,49,527
+AAA75,usuario45,El mundo es muy triste,625,132,3,60,69,15,126
+AAA76,usuario96,Mi papas son los mejores,664,50,3,4,43,90,206
+AAA77,usuario23,Disfrutando en familia,697,155,60,9,86,85,226
+AAA78,usuario98,Estoy con COVID19,344,174,3,90,81,96,198
+AAA79,usuario12,Feliz por este nuevo logro,887,79,18,0,61,100,196
+AAA80,usuario30,Juntos en familia,679,127,15,15,97,18,820
+AAA81,usuario32,Respirando aire puro,308,85,20,9,56,94,1000
+AAA82,usuario95,Viajando por el mundo,493,49,10,1,38,64,428
+AAA83,usuario81,Debemos vacunarnos,52,51,3,3,45,96,825
+AAA84,usuario42,Debemos cuidarnos de virus,449,124,34,30,60,29,360
+AAA85,usuario89,No hay paz en este país,35,123,20,23,80,51,762
+AAA86,usuario59,Disfrutando del viaje,653,102,25,31,46,44,570
+AAA87,usuario78,Juntos en familia,907,31,7,7,17,9,439
+AAA88,usuario90,Juntos por siempre,636,77,23,20,34,13,802
+AAA89,usuario14,Vacunas gratis,29,87,16,15,56,69,280
+AAA90,usuario53,Tengo la mejor familia del mundo,126,97,45,46,6,98,834
+AAA91,usuario27,No encuentro trabajo,286,122,60,8,54,44,776
+AAA92,usuario84,Disfrutando del nuevo miembro de la familia,477,177,80,6,91,63,650
+AAA93,usuario36,Feliz en familia,890,84,15,16,53,79,219
+AAA94,usuario30,Mi novia la mejor del mundo,369,59,7,7,45,11,682
+AAA95,usuario34,Disfrutando esta comida en familia,851,66,7,30,29,67,993
+AAA96,usuario88,Mi nuevo carro esta genial,925,128,37,30,61,53,898
+AAA97,usuario61,No hay paz en este país,139,103,4,15,84,20,271
+AAA98,usuario11,Viajando a México,606,48,5,4,39,88,676
+AAA99,usuario27,El gobierno no ayuda al pueblo,465,79,23,30,26,63,251
+AAA100,usuario3,Mi familia mi mejor tesoro,902,174,20,60,94,71,734
